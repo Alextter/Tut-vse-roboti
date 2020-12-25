@@ -1,0 +1,171 @@
+
+body{
+    background-image: url(./img/christmas-2892235_1920.png);
+    font-family: 'Oswald', sans-serif;
+    
+}
+.mother{
+    display: flex;
+    transform: all 0.8s;
+    margin-left: 170px;
+}
+
+.pn{
+    background-image:url(./img/5WWU.gif) ;
+    border: 5px aqua solid;
+    border-radius: 10px;
+    width: 200px;
+    height: 75px;
+    color: aqua;
+    overflow: hidden;
+    vertical-align: middle;
+    transition: all 0.8s;
+}
+.pn:hover{
+    background-image:url(./img/5WWU.gif) ;
+    border: 4px aqua solid;
+    border-radius: 10px;
+    width: 200px;
+    height: 300px;
+    color: aqua;
+    overflow: hidden;
+    
+}
+
+
+.vt{
+    background-image:url(./img/5WWU.gif) ;
+    border: 5px aqua solid;
+    border-radius: 10px;
+    width: 200px;
+    height: 75px;
+    color: aqua;
+    overflow: hidden;
+    vertical-align: middle;
+    transition: all 0.8s;
+}
+.vt:hover{
+    background-image:url(./img/5WWU.gif) ;
+    border: 4px aqua solid;
+    border-radius: 10px;
+    width: 200px;
+    height: 300px;
+    color: aqua;
+    overflow: hidden;
+    
+}
+
+
+.sr{
+    background-image:url(./img/5WWU.gif) ;
+    border: 5px aqua solid;
+    border-radius: 10px;
+    width: 200px;
+    height: 75px;
+    color: aqua;
+    overflow: hidden;
+    vertical-align: middle;
+    transition: all 0.8s;
+}
+.sr:hover{
+    background-image:url(./img/5WWU.gif) ;
+    border: 4px aqua solid;
+    border-radius: 10px;
+    width: 200px;
+    height: 300px;
+    color: aqua;
+    overflow: hidden;
+    
+}
+
+
+
+.cht{
+    background-image:url(./img/5WWU.gif) ;
+    border: 5px aqua solid;
+    border-radius: 10px;
+    width: 200px;
+    height: 75px;
+    color: aqua;
+    overflow: hidden;
+    vertical-align: middle;
+    transition: all 0.8s;
+}
+.cht:hover{
+    background-image:url(./img/5WWU.gif) ;
+    border: 4px aqua solid;
+    border-radius: 10px;
+    width: 200px;
+    height: 300px;
+    color: aqua;
+    overflow: hidden;
+    
+}
+
+.pt{
+    background-image:url(./img/5WWU.gif) ;
+    border: 5px aqua solid;
+    border-radius: 10px;
+    width: 200px;
+    height: 75px;
+    color: aqua;
+    overflow: hidden;
+    vertical-align: middle;
+    transition: all 0.8s;
+}
+.pt:hover{
+    background-image:url(./img/5WWU.gif) ;
+    border: 4px aqua solid;
+    border-radius: 10px;
+    width: 200px;
+    height: 300px;
+    color: aqua;
+    overflow: hidden;
+    
+}
+
+
+.sub{
+    background-image:url(./img/5WWU.gif) ;
+    border: 5px aqua solid;
+    border-radius: 10px;
+    width: 200px;
+    height: 75px;
+    color: aqua;
+    overflow: hidden;
+    vertical-align: middle;
+    transition: all 0.8s;
+}
+.sub:hover{
+    background-image:url(./img/5WWU.gif) ;
+    border: 4px aqua solid;
+    border-radius: 10px;
+    width: 200px;
+    height: 300px;
+    color: aqua;
+    overflow: hidden;
+    
+}
+
+
+.vskr{
+    background-image:url(./img/5WWU.gif) ;
+    border: 5px aqua solid;
+    border-radius: 10px;
+    width: 200px;
+    height: 75px;
+    color: aqua;
+    overflow: hidden;
+    vertical-align: middle;
+    transition: all 0.8s;
+}
+.vskr:hover{
+    background-image:url(./img/5WWU.gif) ;
+    border: 4px aqua solid;
+    border-radius: 10px;
+    width: 200px;
+    height: 300px;
+    color: aqua;
+    overflow: hidden;
+    
+}
