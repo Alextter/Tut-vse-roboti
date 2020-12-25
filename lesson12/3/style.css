@@ -1,0 +1,234 @@
+
+.a{
+    
+    text-decoration: none;
+    
+    
+    font-size: 40px;
+    transition: all 0,8s;
+}
+.a:link{
+    color: black;
+}
+.a:hover{
+    color: lightcoral;
+    font-size: 75px;
+}
+.a:active{
+    border: 3px solid lightpink;
+    color: lightgreen;
+}
+
+.b{
+    
+    text-decoration: none;
+    display: block;
+    
+    font-size: 40px;
+    transition: all 0,8s;
+}
+.b:link{
+    color: rgb(42, 155, 80);
+}
+.b:hover{
+    color: rgb(194, 28, 28);
+    font-size: 75px;
+}
+.b:active{
+    border: 3px solid lightpink;
+    color: rgb(117, 230, 24);
+}
+
+
+
+
+.c{
+    
+    text-decoration: none;
+    display: block;
+    
+    font-size: 40px;
+    transition: all 0,8s;
+}
+.c:link{
+    color: rgb(94, 55, 55)1, 36, 36);
+}
+.c:hover{
+    color: rgb(108, 194, 28);
+    font-size: 75px;
+}
+.c:active{
+    border: 3px solid rgb(182, 228, 255);
+    color: rgb(230, 24, 86);
+}
+
+
+.d{
+  
+    text-decoration: none;
+    display: block;
+    
+    font-size: 40px;
+    transition: all 0,8s;
+}
+.d:link{
+    color: black;
+}
+.d:hover{
+    color: rgb(194, 28, 28);
+    font-size: 75px;
+}
+.d:active{
+    border: 3px solid lightpink;
+    color: rgb(117, 230, 24);
+}
+
+
+
+
+
+.e{
+  
+    text-decoration: none;
+    display: block;
+    
+    font-size: 40px;
+    transition: all 0,8s;
+}
+.e:link{
+    color: rgb(199, 30, 185);
+}
+.e:hover{
+    color: rgb(194, 191, 28);
+    font-size: 75px;
+}
+.e:active{
+    border: 3px solid lightpink;
+    color: rgb(166, 216, 219);
+}
+
+
+
+
+
+.f{
+  
+    text-decoration: none;
+    display: block;
+    
+    font-size: 40px;
+    transition: all 0,8s;
+}
+.f:link{
+    color: rgb(81, 30, 199);
+}
+.f:hover{
+    color: rgb(28, 141, 194);
+    font-size: 75px;
+}
+.f:active{
+    border: 3px solid rgb(226, 15, 47);
+    color: rgb(192, 28, 178);
+}
+
+
+
+
+
+
+
+.g{
+  
+    text-decoration: none;
+    display: block;
+    
+    font-size: 40px;
+    transition: all 0,8s;
+}
+.g:link{
+    color: rgb(4, 255, 129));
+}
+.g:hover{
+    color: rgb(194, 191, 28);
+    font-size: 75px;
+}
+.g:active{
+    border: 3px solid rgb(74, 23, 94);
+    color: rgb(218, 58, 58);
+}
+
+
+
+
+
+.h{
+  
+    text-decoration: none;
+    display: block;
+    
+    font-size: 40px;
+    transition: all 0,8s;
+}
+.h:link{
+    color: rgb(30, 151, 199);
+}
+.h:hover{
+    color: rgb(194, 28, 139);
+    font-size: 75px;
+}
+.h:active{
+    border: 3px solid lightpink;
+    color: rgb(238, 224, 29);
+}
+
+
+
+
+
+
+.i{
+  
+    text-decoration: none;
+    display: block;
+    
+    font-size: 40px;
+    transition: all 0,8s;
+}
+.i:link{
+    color: rgb(196, 199, 30);
+}
+.i:hover{
+    color: rgb(102, 235, 25);
+    font-size: 75px;
+}
+.i:active{
+    border: 3px solid rgb(160, 160, 160);
+    color: rgb(0, 242, 255);
+}
+
+
+
+
+
+
+
+
+.k{
+  
+    text-decoration: none;
+    display: block;
+    
+    font-size: 40px;
+    transition: all 0,8s;
+}
+.k:link{
+    color: rgb(30, 199, 190);
+}
+.k:hover{
+    color: rgb(28, 81, 194);
+    font-size: 75px;
+}
+.k:active{
+    border: 3px solid rgb(248, 26, 60);
+    color: rgb(207, 38, 230);
+}

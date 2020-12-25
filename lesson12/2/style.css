@@ -1,0 +1,187 @@
+
+.a{
+    background-color: blanchedalmond;
+    width: 300px;
+    height: 300px;
+   border:  9px dashed blueviolet;
+    transition: all 0.8s;
+    overflow: scroll;
+}
+.a:hover{
+    background-color: rgb(200, 200, 230);
+    height: 450px;
+    width: 450px;
+    box-shadow: 4px 4px 10px     rgb(200, 200, 230);
+}
+
+
+
+.b{
+    background-color: rgb(189, 127, 35);
+    width: 300px;
+    height: 300px;
+    margin-top:20px ;
+    border:  9px ridge rgb(162, 226, 43);
+    transition: all 0.8s;
+    overflow: scroll; 
+}
+.b:hover{
+    background-color: rgb(49, 49, 182);
+    height: 450px;
+    width: 450px;
+    box-shadow: 4px 4px 10px rgb(49, 49, 182);
+}
+
+
+
+.c{
+    background-color: rgba(189, 127, 35, 0.411);
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    transition: all 0.8s;
+    overflow: scroll; 
+    border:  9px ridge rgb(43, 205, 226);
+}
+.c:hover{
+    background-color: rgba(49, 49, 182, 0.767);
+    height: 450px;
+    width: 450px;
+    box-shadow: 4px 4px 10px rgb(49, 182, 171);
+}
+
+
+
+
+
+
+
+
+.d{
+    background-color: rgba(189, 127, 35, 0.411);
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    transition: all 0.8s;
+    overflow: scroll;
+    border:  9px groove rgb(211, 43, 226);
+}
+}
+.d:hover{
+    background-color: rgba(49, 49, 182, 0.767);
+    height: 300px;
+    width: 1000px;
+    box-shadow: 4px 4px 10px rgb(49, 182, 171);
+}
+
+
+
+
+.e{
+    background-color: rgba(189, 127, 35, 0.411);
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    transition: all 0.8s;
+    overflow: scroll; 
+    border:  9px outset rgb(43, 226, 43);
+}
+.e:hover{
+    background-color: rgba(202, 193, 62, 0.767);
+    height: 450px;
+    width: 450px;
+    box-shadow: 4px 4px 10px rgb(138, 160, 158);
+}
+
+
+
+.f{
+    background-color: rgba(135, 189, 35, 0.411);
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    transition: all 0.8s;
+    overflow: scroll; 
+    border:  9px double rgb(226, 141, 43);
+}
+.f:hover{
+    background-color: rgba(62, 118, 202, 0.767);
+    height: 450px;
+    width: 450px;
+    box-shadow: 4px 4px 10px rgb(92, 168, 162);
+}
+
+
+
+.g{
+    background-color: rgba(35, 189, 81, 0.411);
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    transition: all 0.8s;
+    overflow: scroll; 
+    border:  9px inset rgb(226, 141, 43);
+}
+.g:hover{
+    background-color: rgba(206, 206, 206, 0.767);
+    height: 450px;
+    width: 450px;
+    box-shadow: 4px 4px 10px rgb(210, 224, 13);
+}
+
+
+.h{
+    background-color: rgba(35, 38, 189, 0.411);
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    transition: all 0.8s;
+    overflow: scroll; 
+    border:  9px solid rgb(182, 149, 111);
+}
+.h:hover{
+    background-color: rgba(187, 29, 29, 0.767);
+    height: 450px;
+    width: 450px;
+    box-shadow: 4px 4px 10px rgb(13, 182, 224);
+}
+
+
+
+
+.i{
+    background-color: rgba(35, 166, 189, 0.411);
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    transition: all 0.8s;
+    overflow: scroll; 
+    border:  9px groove rgb(190, 121, 41);  
+}
+.i:hover{
+    background-color: rgba(230, 214, 214, 0.767);
+    height: 450px;
+    width: 450px;
+    box-shadow: 4px 4px 10px rgb(83, 83, 83);
+}
+
+
+
+.k{
+    background-color: rgba(35, 189, 99, 0.411);
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    transition: all 0.8s;
+    overflow: scroll; 
+    border:  9px outset rgb(185, 156, 123);  
+}
+.k:hover{
+    background-color: rgba(30, 134, 204, 0.767);
+    height: 450px;
+    width: 450px;
+    box-shadow: 4px 4px 10px rgb(24, 207, 33);
+}
+
+
+
