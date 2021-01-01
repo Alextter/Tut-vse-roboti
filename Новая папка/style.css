@@ -1,0 +1,165 @@
+body{
+    background: rgb(186,186,215);
+background: linear-gradient(90deg, rgba(186,186,215,1) 0%, rgba(92,94,200,1) 0%);
+}
+h1{
+    font-family: 'Noto Sans', sans-serif;
+}
+.fab{
+    font-size: 40px;
+}
+
+.fdset1{
+    background: rgb(255, 255, 255);
+
+    margin: auto;
+    width: 440px;
+    height: 570px;
+    border-radius: 10px;
+    box-shadow: 0px 1px 0px 1px rgb(221, 221, 221);
+}
+.name{
+    width: 194px;
+    height: 40px;
+    border-radius: 5px;
+    border: rgb(167, 167, 167) solid 1px;
+    background-color: rgb(230, 228, 228);
+}
+.famale{
+    width: 194px;
+    height: 40px;
+   border:rgb(167, 167, 167) solid 1px ; 
+    border-radius: 5px;
+    background-color: rgb(230, 228, 228);
+}
+.mob{
+    width: 399px;
+    height: 40px;
+    position: relative;
+    top: 10px;
+    border-radius: 5px;
+    border: rgb(167, 167, 167) solid 1px;
+    background-color: rgb(230, 228, 228);
+}
+
+.pass{
+    width: 399px;
+    height: 40px;
+    position: relative;
+    top: 20px;
+    border-radius: 5px;
+    border: rgb(167, 167, 167) solid 1px;
+    background-color: rgb(230, 228, 228);
+}
+.dr{
+    font-size: 12px;
+    position: relative;
+    top:20px;
+    
+}
+.den{
+    width: 125px;
+    height: 36px;
+    position: relative;
+    top:20px;
+    border-radius: 5px;
+    border: rgb(167, 167, 167) solid 1px;
+    background-color: rgb(230, 228, 228);
+    
+}
+.mes{
+    width: 125px;
+    height: 36px;
+    position: relative;
+    top: 20px;
+    border-radius: 5px;
+    border: rgb(167, 167, 167) solid 1px;
+    background-color: rgb(230, 228, 228);
+    margin-left: 10px;
+}
+
+.god{
+    width: 125px;
+    height: 36px;
+    position: relative;
+    top:20px;
+    border-radius: 5px;
+    border: rgb(167, 167, 167) solid 1px;
+    background-color: rgb(230, 228, 228);
+    margin-left: 10px;
+}
+.button{
+    margin-left: 100px;
+    background-color: green;
+    border-radius: 10px;
+    width: 232.06px;
+    height: 36px;
+    color: white;
+    font-size: 20px;
+    font-family: 'Noto Sans', sans-serif;
+    position: relative;
+    top:70px;
+}
+.button:hover{
+    background-color:rgb(87, 112, 87) ;
+}
+
+
+
+
+
+.pol{
+    font-size: 12px;
+    position: relative;
+    top:20px;
+    
+}
+.muj{
+    width: 119.66px;
+    height: 36px;
+    position: relative;
+    top:20px;
+    border-radius: 5px;
+    border: rgb(167, 167, 167) solid 1px;
+    background-color: rgb(230, 228, 228);
+    color: black;
+    
+}
+.jen{
+    width: 119.66px;
+    height: 36px;
+    position: relative;
+    top:20px;
+    border-radius: 5px;
+    border: rgb(167, 167, 167) solid 1px;
+    background-color: rgb(230, 228, 228);
+    margin-left: 10px;
+    color: black;
+}
+.drug{
+    width: 119.66px;
+    height: 36px;
+    position: relative;
+    top:20px;
+    border-radius: 5px;
+    border: rgb(167, 167, 167) solid 1px;
+    background-color: rgb(230, 228, 228);
+    margin-left: 10px;
+    color: black;
+}
+.fab{
+    position: relative;
+    top: 120px;
+    right: 85px;
+    font-size: 30px;
+}
+.b{
+    border-bottom: solid grey 1px;
+    
+}
+.c{
+   position: relative;
+   font-size: 13px;
+   top: -20px;
+   text-decoration: none;
+}
