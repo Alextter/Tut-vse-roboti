@@ -1,0 +1,76 @@
+.fab{
+    font-size: 40px;
+}
+.fdset1{
+    margin: auto;
+    width: 440px;
+    height: 570px;
+    
+}
+.name{
+    width: 194px;
+    height: 42px;
+}
+.famale{
+    width: 194px;
+    height: 42px;
+}
+.mob{
+    width: 412px;
+    
+}
+.pass{
+    width: 412px;
+}
+.dr{
+    font-size: 10px;
+}
+.den{
+    width: 125px;
+    height: 36px;
+}
+.mes{
+    width: 125px;
+    height: 36px;
+}
+.god{
+    width: 125px;
+    height: 36px;
+}
+.button{
+    margin-left: 150px;
+    background-color: green;
+}
+.button:hover{
+    background-color: ;
+}
+
+
+.pol{
+    font-size: 10px;
+}
+.muj{
+    width: 125px;
+    height: 36px;
+}
+.jen{
+    width: 125px;
+    height: 36px;
+}
+.drug{
+    width: 125px;
+    height: 36px;
+}
+.fab{
+    position: relative;
+    top: 120px;
+    right: 85px;
+    font-size: 30px;
+}
+.b{
+    border-bottom: solid grey 1px;
+    
+}
+.c{
+    font-size: 10px;
+}
