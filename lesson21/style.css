@@ -1,0 +1,57 @@
+.header {
+    width: 100%;
+}
+.nav{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    background-color: white;
+    margin: 0 auto;
+   justify-content: space-around;
+    padding: 20px 10px;
+}
+.logo{
+    margin-top: 47px; 
+}
+.nav1{
+    display: flex;
+}
+.a{
+    display: flex;
+    margin-left: 40px;
+    margin-top: 50px;
+    text-decoration: none;
+    color: #212121;
+}
+.head{
+    width: 100%;
+    height: 780px;
+    background: url(./img/pexels-photo-356056@1X.png) no-repeat;
+    background-size:100% ;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+.name{
+        left:570px;
+    position: relative;
+    top: 302px; 
+    font-size: 30px;   
+    color: white;
+    opacity: 0.9;
+}
+.p{
+    font-size: 22px;
+    margin-left: 100px;
+}
+.buttons{
+    width: 461px;
+    height: 71px;
+}
+.button1{
+    width: 170px;
+    height: 61px;
+    font-size: 20px;
+    margin-top: 450px;
+    margin-left: 750px;
+    
+}
