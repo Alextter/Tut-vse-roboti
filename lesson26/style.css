@@ -1,0 +1,33 @@
+.div{
+    width: 14700px;
+    height: 820px;
+    
+    margin-left: 150px;
+}
+.div1{
+    width: 1467px;
+    height: 267px;
+    
+    background-color: blue;
+    padding-top: 3px;
+}
+.dives{
+    width: 14658px;
+    height: 535px;
+    
+    margin-top: 14px;
+    display: flex;
+}
+.div2{
+    width: 257px;
+    height: 536px;
+    
+    background-color: red;
+}
+.div3{
+    width: 1185px;
+    height: 536px;
+    
+    background-color: green;
+    margin-left: 20px;
+}
