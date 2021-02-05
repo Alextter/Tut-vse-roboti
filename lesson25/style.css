@@ -40,16 +40,17 @@
    
 }
 .item2{
-    
+    font-family: 'Lobster', cursive;
 }
 .item3{
-   
+   text-decoration: none;
+   font-family: 'Lobster', cursive;
 }
 .item4{
-    
+    font-family: 'Lobster', cursive;
 }
 .item5{
-    
+    font-family: 'Lobster', cursive;
 }
 img{
     border-radius: 10px;
@@ -58,5 +59,22 @@ img{
     opacity: 0.8;
 }
 h3{
+    font-family: 'Lobster', cursive;
     font-size: 17px;
+    color: rgb(196, 142, 235);
+}
+.pobeg{
+    font-size: 30px;
+    
+}
+a{
+    text-decoration: none;
+    color: rgba(184, 0, 0, 0.753);
+}
+p{
+    font-size: 20px;
+    color: khaki;
+}
+h1{
+    font-family: 'Lobster', cursive;
 }
